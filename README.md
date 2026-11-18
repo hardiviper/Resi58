@@ -25,4 +25,4 @@ Gratis dipakai. Tidak mengumpulkan data pribadi. Iklan (Start.io) ditampilkan un
 
 ## Kontak
 
-[your-email@example.com]
+[ardiline21@gmail.com]
