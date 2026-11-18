@@ -126,7 +126,7 @@ try {
 # ---------- 4. Upload APK ----------
 Write-Host "`n[4/5] Upload APK ke rilis..." -ForegroundColor Cyan
 $uploadBase = $release.upload_url -replace '\{\?name,label\}', ''
-$assetName = "app-release.apk"
+$assetName = "Resi58.apk"
 $uploadUri = "${uploadBase}?name=$assetName"
 # Hapus asset lama jika ada (idempotent)
 try {

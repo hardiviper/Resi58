@@ -4,7 +4,7 @@ Aplikasi Android untuk mengubah PDF resi pengiriman (label A6 dari Shopee, TikTo
 
 ## Unduh
 
-**APK rilis (Android 8+):** [Unduh Resi58 v1.0.0](https://github.com/{{OWNER}}/resi58/releases/download/v1.0.0/app-release.apk)
+**APK rilis (Android 8+):** [Unduh Resi58 v1.0.0](https://github.com/hardiviper/Resi58/releases/download/v1.0.0/Resi58.apk)
 
 Belum tersedia di Play Store — dipasang manual (sideload). Izinkan "Install sumber tidak dikenal" saat diminta.
 
